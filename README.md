@@ -7,7 +7,7 @@
   - Email: I'm sure you can figure it out from my Mastodon handle.
 
 <!-- Mastodon verification -->
-<a rel="me" href="https://social.dinn.ca/@steve">Mastodon</a>
+<a rel="me" href="https://social.dinn.ca/@steve"><!-- Mastodon verification --></a>
 
 <!---
 SteveDinn/SteveDinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
